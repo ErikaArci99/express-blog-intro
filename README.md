@@ -11,3 +11,4 @@ Creiamo poi una rotta /bacheca che restituisca un oggetto json con la lista dei 
 Configuriamo gli asset statici sull’applicazione in modo che si possano visualizzare le immagini associate ad ogni post.
 Testare su postman
 Numero minimo di push 7
+DONE
