@@ -10,3 +10,8 @@ const port = 3000;
 app.get('/', (req, res) =>{
     res.send('Server del mio blog')
 })
+
+// inseriamo il metodo che lascia in ascolto il server
+app.listen(port, () => {
+    console.log(`Server in ascolto alla porta ${port}`)
+})
